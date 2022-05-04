@@ -26,3 +26,32 @@ Generally Accepted  | Generally frowned upon
 
 ¹ : only if the source model was out for a long time  
 ² : for Learning purposes (Copying previous work to get "a feel" for it)
+
+## Example: Apple and BrAuN
+
+**Apple** inspired by 
+**BrAun** inspired by
+**Modernism** (**Bauhaus**-> Gropius)
+
+### Welche Fragen sollte ein gutes Referat beantworten?
+
+- Herkunft
+    - Wie kam es eigentlich dazu?
+- Formales
+    - Wie sah die Gestaltung aus?
+        - Farbe
+        - Form (Formensprache)
+    - Machart
+        - Wie wurde es hergestellt? Was war neu und einzigartig daran?
+- Wirkung
+    - Wie wirkt es? Heute? Damals?
+        - Wie wurde es von den Zeitgenossen wahrgenommen?
+    - Ästhetik
+- Funktion
+    - Welchen Nutzen erfüllt es?
+- Symbolik
+    - Wofür steht es?
+- Bewertung
+    - Diskussion u. Vergleich von ästhetischer, praktischer u. symbolischer Funktion
+- Einfluss
+    - Was baut darauf auf?
