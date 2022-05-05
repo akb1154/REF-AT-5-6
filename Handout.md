@@ -1,8 +1,5 @@
 # Postmodernes Design 
 
-> Alessandro Mendini  (Aug 1931, Milan - Feb 2019, Milan) 
-> Ettore Sottsass (Sep 1919, Innsbruck - Dez 2007, Milan)
-
 ## Ettore Sottsass
 
 ![](./img/Ettore_Sottsass_1969.jpg) Ettore Sottsass, geboren im September 1919 in Innsbruck, Österreich-Ungarn, gestorben im Dezember 2007 in Milan, Italien, war ein Italienischer Architekt, der Postmoderne, er hat u.a. die Schreibmaschine "Valentine" und die Skulptur "Faktotum" entworfen. 
