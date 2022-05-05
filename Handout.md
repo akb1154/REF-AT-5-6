@@ -22,7 +22,7 @@ Alessandro Mendini, geboren im August 1931 in Milan, Italien, gestorben im Febru
 ![FEHLER](./img/Chair.png)
 Sessel "Wassily". 
 
-![FEHLER](./img/GroningerMuseum.jpg)
+![FEHLER](./img/GronigerMuseum.jpg)
 Das Groninger Museum 
 
 ## Die Postmoderne
@@ -34,6 +34,6 @@ Die Experimentierfreudige, individualistische Bewegung kann man meist an den Mat
 
 Die Postmoderne versucht auch Form und Funktion zu entkoppeln, so dass die Funktion nicht zwingend der Form oder die Form der Funktion folgen muss; bei ihr ist die Form dabei meißt im Vordergrund. 
 
-Dies kann man auch recht gut bei dem Sessel "Bel Air" von Peter Shire sehen. 
+Dies kann man auch recht gut bei dem Sessel "Bel Air" von Peter Shire sehen.  
 ![](./img/pm_chair.jpeg) 
 
