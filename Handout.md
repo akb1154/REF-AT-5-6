@@ -5,8 +5,7 @@
 
 ## Ettore Sottsass
 
-![](./img/Ettore_Sottsass_1969.jpg)  
-Ettore Sottsass, geboren im September 1919 in Innsbruck, Österreich-Ungarn, gestorben im Dezember 2007 in Milan, Italien, war ein Italienischer Architekt, der Postmoderne, er hat u.a. die Schreibmaschine "Valentine" und die Skulptur "Faktotum" entworfen. 
+![](./img/Ettore_Sottsass_1969.jpg) Ettore Sottsass, geboren im September 1919 in Innsbruck, Österreich-Ungarn, gestorben im Dezember 2007 in Milan, Italien, war ein Italienischer Architekt, der Postmoderne, er hat u.a. die Schreibmaschine "Valentine" und die Skulptur "Faktotum" entworfen. 
 
 ![FEHLER](./img/Valentine.png) 
 Schreibmaschine "Valentine"
@@ -16,8 +15,7 @@ Skulptur "Faktotum"
 
 ## Alessandro Mendini
 
-![](./img/AlessandroMendini.jpg)  
-Alessandro Mendini, geboren im August 1931 in Milan, Italien, gestorben im Februar 2019 in Milan, Italien, war ein Italienischer Architekt der im Postmodernen Stil gearbeitet hat; er entwarf u.a. Das Groninger Museum und Designte den Sessel von Gropius neu & nannte in "Wassily". 
+![](./img/AlessandroMendini.jpg) Alessandro Mendini, geboren im August 1931 in Milan, Italien, gestorben im Februar 2019 in Milan, Italien, war ein Italienischer Architekt der im Postmodernen Stil gearbeitet hat; er entwarf u.a. Das Groninger Museum und Designte den Sessel von Gropius neu & nannte in "Wassily". 
 
 ![FEHLER](./img/Chair.png)
 Sessel "Wassily". 
