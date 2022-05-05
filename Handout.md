@@ -16,7 +16,7 @@ Skulptur "Faktotum"
 
 ## Alessandro Mendini
 
-![](./img/AllesandroMendini.jpg)  
+![](./img/AlesandroMendini.jpg)  
 Alessandro Mendini, geboren im August 1931 in Milan, Italien, gestorben im Februar 2019 in Milan, Italien, war ein Italienischer Architekt der im Postmodernen Stil gearbeitet hat; er entwarf u.a. Das Groninger Museum und Designte den Sessel von Gropius neu & nannte in "Wassily". 
 
 ![FEHLER](./img/Chair.png)
